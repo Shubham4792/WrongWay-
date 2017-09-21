@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "875927303542",
+    "firebase_url": "https://admob-app-id-5619940508.firebaseio.com",
+    "project_id": "admob-app-id-5619940508",
+    "storage_bucket": "admob-app-id-5619940508.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875927303542:android:6cefc27c4806bf92",
+        "android_client_info": {
+          "package_name": "com.shubham.wrongway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875927303542-g9uap0ihqrkb5cs6r5qfgtlm8o52ef0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqSGWx3_dwvsgx0pZ7Kcc8-XO40O-jY_I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
