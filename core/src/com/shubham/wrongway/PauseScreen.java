@@ -16,7 +16,7 @@ import com.badlogic.gdx.utils.viewport.ExtendViewport;
  * Created by SHUBHAM PANDEY on 9/11/2016.
  */
 public class PauseScreen extends InputAdapter implements Screen {
-    WrongWay game;
+    private WrongWay game;
     private Vector2 resumeButton;
     private ExtendViewport viewport;
     private SpriteBatch batch;
@@ -85,6 +85,7 @@ public class PauseScreen extends InputAdapter implements Screen {
 
     @Override
     public void hide() {
+
     }
 
     @Override
